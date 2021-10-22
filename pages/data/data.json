@@ -1,0 +1,39 @@
+[
+
+{
+"placeImage": "assets/img_cupones.jpg",
+"PlaceName" : "Hamburgesa de carne"
+},
+
+{
+"placeImage": "assets/pollomcdonalds.jpg",
+"PlaceName" : "Pollo"
+},
+
+{
+"placeImage": "assets/img_menu.jpg",
+"PlaceName" : "Papas y acompañamientos"
+},
+        
+{
+"placeImage": "assets/cocamcdonalds.jpg",
+"PlaceName" : "Bebidas"
+},
+
+{
+    "placeImage": "assets/postremcdonalds.jpg",
+    "PlaceName" : "Postres"
+},
+{
+    "placeImage": "assets/desayunomcdonalds.jpg",
+    "PlaceName" : "Desayunos"
+},
+{
+    "placeImage": "assets/cajitafelizmcdonalds.jpg",
+    "PlaceName" : "Cajita Feliz"
+},
+{
+    "placeImage": "assets/cajitafelizdesayunomcdonalds.jpg",
+    "PlaceName" : "Cajita Feliz Desayuno"
+}
+]
